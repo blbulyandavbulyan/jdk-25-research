@@ -1,4 +1,6 @@
-package flexibleconstructors.abstractmethod;
+package flexibleconstructors.abstractmethod.solution;
+
+import flexibleconstructors.abstractmethod.AbstractEntity;
 
 public class EntityJdk25 extends AbstractEntity {
     //this will work because of flexible constructor bodies 🎉

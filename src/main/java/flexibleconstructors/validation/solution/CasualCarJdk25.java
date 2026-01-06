@@ -1,4 +1,6 @@
-package flexibleconstructors.validation;
+package flexibleconstructors.validation.solution;
+
+import flexibleconstructors.validation.AbstractVehicle;
 
 public class CasualCarJdk25 extends AbstractVehicle {
 

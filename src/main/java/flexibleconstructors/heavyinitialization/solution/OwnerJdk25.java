@@ -1,4 +1,7 @@
-package flexibleconstructors.heavyinitialization;
+package flexibleconstructors.heavyinitialization.solution;
+
+import flexibleconstructors.heavyinitialization.AbstractOwner;
+import flexibleconstructors.heavyinitialization.Dependency;
 
 import java.util.UUID;
 
